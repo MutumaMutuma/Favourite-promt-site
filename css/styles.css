@@ -1,0 +1,26 @@
+.jumbotron{
+  text-align: center;
+}
+/* .names{
+  background-image: url("http://globalmedicalco.com/photos/globalmedicalco/10/49806.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+*/
+.names{
+  text-align: center;
+}
+body{
+  background-color: grey;
+}
+img{
+  float: right;
+}
+.groom{
+  text-align: center;
+}
